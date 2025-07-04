@@ -1,4 +1,3 @@
-# frontent-mini
 # Frontend Mini Projects
 
 This repository contains mini projects built using:
