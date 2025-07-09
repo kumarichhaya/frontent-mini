@@ -19,3 +19,9 @@ body{
     box-shadow: 4px 2px 5px rgba(1, 1,1, 0.1);
     border-radius: 10px;
 }
+.form_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    grid:20px ;
+    
+}
